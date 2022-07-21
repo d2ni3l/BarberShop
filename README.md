@@ -1,3 +1,3 @@
 # BarberShop
 A fake barber shop Project
-This is a fake omline barber shop 
+This is a fake online barber shop 
