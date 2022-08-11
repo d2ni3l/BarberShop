@@ -1,3 +1,3 @@
 # BarberShop
-A fake barber shop Project
+A barber shop website
 This is a fake online barber shop 
